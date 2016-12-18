@@ -207,7 +207,7 @@ footer p {
 
     form {
         width: 30%;
-        height: 150%;
+        height: 100%;
     }
 
     .blogpost {
@@ -221,10 +221,10 @@ footer p {
 
     .btn {
         position: absolute;
-        bottom: 0;
-        left: 45%;
-        width: 15%;
-        height: 8%;
+        top: 70%;
+        left: 35%;
+        width: 30%;
+        height: 5%;
     }
 
     footer {
